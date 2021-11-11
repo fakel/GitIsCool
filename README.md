@@ -1,2 +1,2 @@
 # GitIsCool
-Git Is Cool
+Git Is Cool only online
