@@ -1,2 +1,2 @@
 # GitIsCool
-Git Is Cool only offline
+Git Is Cool offline and online
